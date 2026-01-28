@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Inspired by [Multi-Model Breast Cancer Detection Using Thermal Imaging](https://github.com/Deeksha1054/Multi-Model-Breast-Cancer-Detection-Using-Thermal-Imaging)
+- Inspired by [Breast Cancer Detection Using Thermal Imaging on Smart Wearable Device]
 - Thermal imaging datasets from DMR and Mendeley
 - PyTorch and OpenCV communities
 
